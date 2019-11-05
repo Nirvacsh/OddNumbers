@@ -16,7 +16,6 @@ public class OddNumber {
                 result = j;
             }
         }
-        
         System.out.print("\nBiggest odd number - " + result);
     }
 }
